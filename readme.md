@@ -23,7 +23,7 @@ git clone https://github.com/jeffreyutfpr/sistemadeavaliacaoturisticaAPI.git
 ```
 2. Navegue até o diretório do projeto:
 ```bash
-cd sistemadeavaliacaoturisticaAPI-Node
+cd sistemadeavaliacaoturisticaAPI
 ```
 3. Instale as dependências usando npm (Node.js Package Manager):
 ```bash
